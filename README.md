@@ -8,17 +8,18 @@
 - 💬 Ask me about React.
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/maysqunaibi).
 - 😄 Pronouns: She/Her.
+ -->
 <!-- - ⚡ Fun fact: If you told me a joke, mostly you will repeat it.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
- --> -->
+ -->
  
- <br/>
+<!--  <br/>
 <p align="center">
     <a>
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mays Qunaibi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maysqunaibi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
+</p> -->
 
 ## 📊 My Github Stats
 
