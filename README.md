@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Mays</h1>
 </div>
 
-## 🙋🏻‍♀️ About Me
+<!-- ## 🙋🏻‍♀️ About Me
 - 🔭 I’m currently software engineering student.
 - 🌱 I’m currently learning Python.
 - 💬 Ask me about React.
@@ -11,7 +11,7 @@
 <!-- - ⚡ Fun fact: If you told me a joke, mostly you will repeat it.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
- -->
+ --> -->
  
  <br/>
 <p align="center">
