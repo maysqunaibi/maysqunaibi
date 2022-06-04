@@ -1,6 +1,4 @@
 <!-- <div align="center" width="20%" height="20%"><img src="https://imgur.com/ddpMVl2.png" /> -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Mays</h1>
-</div>
 
 <!-- ## 🙋🏻‍♀️ About Me
 - 🔭 I’m currently software engineering student.
